@@ -2,3 +2,4 @@
 Chair
 Tables
 Personal Computer
+Cameras
